@@ -1,5 +1,6 @@
 <script lang="ts">
   import AppInfo from "$lib/components/AppInfo.svelte";
+  import Footer from "$lib/components/Footer.svelte";
   import ThemeIcon from "$lib/components/ThemeIcon.svelte";
   import MainPage from "$lib/pages/main/MainPage.svelte";
 </script>
@@ -20,3 +21,4 @@
 <div class="p-4">
   <MainPage />
 </div>
+<Footer />

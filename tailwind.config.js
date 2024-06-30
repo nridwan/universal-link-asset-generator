@@ -7,8 +7,12 @@ export default {
     "./src/**/*.{svelte,js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
-  },
+		extend: {
+			flex: {
+				'full': '1 1 100%'
+			}	  
+		},
+	},
   plugins: [daisyui],
   daisyui: {
 		themes: ["dracula", "winter"],
