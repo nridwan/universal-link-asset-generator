@@ -20,10 +20,10 @@
       This mode exist to use format that's used by Firebase Dynamic Links. There
       are still uncertainty whether this mode still needed or not, there are no
       information from <a
-        href="https://developer.android.com/training/app-links/verify-android-applinks"
+        target="_blank" href="https://developer.android.com/training/app-links/verify-android-applinks"
         class="text-accent">Android developer portal</a
       >. Meanwhile
-      <a href="https://youtu.be/3bAQPnxLd4c?t=148" class="text-accent"
+      <a target="_blank" href="https://youtu.be/3bAQPnxLd4c?t=148" class="text-accent"
         >Official Chrome youtube video</a
       > shows duplicated package_name in order to support multiple sha256.
     </div>

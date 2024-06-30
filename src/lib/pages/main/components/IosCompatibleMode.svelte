@@ -20,7 +20,7 @@
       This mode exist to support project that's still targeting iOS version
       below iOS 13. This documentation exist on <a
         class="text-accent"
-        href="https://developer.apple.com/videos/play/wwdc2019/717/?time=245"
+        target="_blank" href="https://developer.apple.com/videos/play/wwdc2019/717/?time=245"
         >WWDC2019 video</a
       >.
     </div>

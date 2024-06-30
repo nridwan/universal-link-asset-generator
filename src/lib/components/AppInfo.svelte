@@ -58,7 +58,7 @@
     <div class="mb-4">
       As we all know that <a
         class="text-accent"
-        href="https://firebase.google.com/support/dynamic-links-faq"
+        target="_blank" href="https://firebase.google.com/support/dynamic-links-faq"
         >Firebase Dynamic Links is discontinued and will shut down on Aug 25th,
         2025</a
       >. At first, I'd like to create its clone, but after seeing the condition,
@@ -72,13 +72,17 @@
     <div class="mb-4">
       <ul class="font-medium list-disc list-inside">
         <li>
-          <a class="text-accent" href="https://pub.dev/packages/app_links"
+          <a
+            class="text-accent"
+            target="_blank"
+            href="https://pub.dev/packages/app_links"
             >app_links package on pub.dev</a
           >
         </li>
         <li>
           <a
             class="text-accent"
+            target="_blank"
             href="https://developer.android.com/training/app-links/verify-android-applinks"
             >assetlinks.json setup guide</a
           >
